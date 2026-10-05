@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash: خلفية بيضاء + شعار الأناناس -->
+    <style name="Theme.Pineapple" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/pineapple_white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/pineapple_logo</item>
+        <item name="windowSplashScreenAnimationDuration">800</item>
+        <item name="postSplashScreenTheme">@style/Theme.Pineapple.Base</item>
+    </style>
+
+    <style name="Theme.Pineapple.Base" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

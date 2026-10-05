@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pineapple_green">#1B8A3E</color>
+    <color name="pineapple_green_light">#4CAF50</color>
+    <color name="pineapple_yellow">#F5A623</color>
+    <color name="pineapple_orange_dark">#E8850C</color>
+    <color name="pineapple_ink">#1A1A1A</color>
+    <color name="pineapple_white">#FFFFFF</color>
+    <color name="pineapple_surface">#F5F5F5</color>
+    <color name="pineapple_outline">#E0E0E0</color>
+    <color name="pineapple_error">#D32F2F</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

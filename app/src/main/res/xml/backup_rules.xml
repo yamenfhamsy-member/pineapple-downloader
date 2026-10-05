@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude domain="sharedpref" path="download_history" />
+</full-backup-content>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="download_history" />
+    </cloud-backup>
+</data-extraction-rules>
